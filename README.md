@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+profile!;)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](quyen.calixto@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quyen.calixto@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/quyencalixto)
 
 ### I'm a full-stack software engineer from Brooklyn, NY, with experience in React and Express. I'm passionate about solving complex problems and working in teams as well as learning new technologies. In my previous life, I was an Internal Auditor with a passion for IT. In my spare time, when I'm not catching up on HK dramas, I enjoys dining at Michelin restaurants and chasing the latest foodie trends. Feel free to checkout my latest eats at  [![IG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=plastic)](https://www.instagram.com/qtie1008.lilgirleatstheworld)
